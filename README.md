@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Apache Spark for large-scale data processing**
 
+- 🤝 I’m looking for help with **Experimenting with AI-driven approaches to data exploration, pattern recognition, and trend analysis**
+
 - 💬 Ask me about **Performance tuning and optimization for data processing**
 
 - 📫 How to reach me **assiltarhouni7@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/assiltarhouni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="assiltarhouni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
